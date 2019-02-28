@@ -1,6 +1,5 @@
 <img src="https://s15.directupload.net/images/190228/pz5wjblp.png">
 
-
 ## This Module makes your Device to use AdGuard Famile Protection DNS Servers:
 * 176.103.130.132
 * 176.103.130.134
@@ -16,8 +15,8 @@ Magisk installed (v17+)
 
 
 ## Links
-[XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-adguarddns4magisk-default-famile-t3905370)
-* [Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-adguarddns4magisk-default-famile-t3905370)
+* [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
