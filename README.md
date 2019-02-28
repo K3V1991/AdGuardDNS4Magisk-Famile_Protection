@@ -1,16 +1,18 @@
-AdGuardDNS4Magisk Famile Protection
+<img src="https://s15.directupload.net/images/190228/pz5wjblp.png">
 
 
-This Module makes your Device to use AdGuard Famile Protection DNS Servers:
+## This Module makes your Device to use AdGuard Famile Protection DNS Servers:
 * 176.103.130.132
 * 176.103.130.134
 
-
+## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices.
 
+## Requirements:
+Magisk installed (v17+)
 
 ## Changelog
-* v1 Initial
+* v1 (Initial Release)
 
 
 ## Links
